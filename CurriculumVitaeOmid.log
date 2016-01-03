@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.14)  3 JAN 2016 00:36
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.10.14)  3 JAN 2016 00:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -846,23 +846,23 @@ CVX\OT1/cmr/m/n/10 , \OT1/cmr/bx/n/10 Mosek\OT1/cmr/m/n/10 , Gurobi.
  []
 
 [2]
-Overfull \hbox (2.14528pt too wide) in paragraph at lines 236--239
+Overfull \hbox (2.14528pt too wide) in paragraph at lines 235--238
 \OT1/cmr/bx/n/10 Object-Oriented Pro-gram-ming\OT1/cmr/m/n/10 , \OT1/cmr/bx/n/1
 0 Agent-Oriented Pro-gram-ming\OT1/cmr/m/n/10 , \OT1/cmr/bx/n/10 Service-Orient
 ed Pro-gram-ming\OT1/cmr/m/n/10 .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 274--276
+Underfull \hbox (badness 10000) in paragraph at lines 273--275
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 281.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 280.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 281.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 281.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 281.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 281.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 280.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 280.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 280.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 280.
  ) 
 Here is how much of TeX's memory you used:
  14994 strings out of 495028
@@ -881,7 +881,7 @@ st/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/font
 s/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmti10.pfb>
-Output written on CurriculumVitaeOmid.pdf (3 pages, 134975 bytes).
+Output written on CurriculumVitaeOmid.pdf (3 pages, 134962 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  67 compressed objects within 1 object stream

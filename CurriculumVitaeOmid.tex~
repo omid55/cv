@@ -6,15 +6,14 @@
 \usepackage[hidelinks]{hyperref}
 \usepackage{xcolor}
 \usepackage[utf8]{inputenc}
-\geometry{
- a4paper,
+\geometry{a4paper,
  total={210mm,297mm},
  left=20mm,
  right=25mm,
  top=17mm,
  bottom=17mm,
- bindingoffset=0mm
- }\usepackage{fontenc}
+ bindingoffset=0mm}
+ \usepackage{fontenc}
 \usepackage{enumitem}
 \setlist{nolistsep}
 \usepackage[colorinlistoftodos]{todonotes}
@@ -54,29 +53,27 @@
 
 % 				PUBLICATIONS
 % --------------------------------------------------------
-\section{Publications}
+\section{Selected Publications}
 \begin{enumerate}
-\item M. Jalili, O. AskariSichani, Xinghuo Yu `` \textbf{Optimal pinning
-controllability of complex networks: Dependence on network structure,}''
+\item M. Jalili, O. AskariSichani, Xinghuo Yu `` \textbf{Optimal pinning controllability of complex networks: Dependence on network structure,}''
 \textit{Journal of Physical Review E}, (PRE), Vol. 91, No. 1, Page 012803,
 \textit{American Physical Society}, DOI:10.1103/PhysRevE.91.012803,\\
 \href{http://link.aps.org/doi/10.1103/PhysRevE.91.012803}{http://link.aps.org/doi/10.1103/PhysRevE.91.012803}, 2015.
-{\href{http://ce.sharif.edu/~oaskari/publications/finding_controlnodes.pdf}{\textbf{\textcolor{blue}{(link)}}}}
+{\href{https://github.com/omid55/optimal_pinning_control}{\textbf{\textcolor{blue}{(git)}}}}
 
 \item SM Hill, LM Heiser, T Cokelear, M Unger, D Carlin, Y Zhang, A Sokolov, E Paull, CK Wong, K Graim, A Bivol, H Wang, F Zhu, B Afsari, LV Danilova, AV Favorov, W Lee, D Taylor, HPN-DREAM Consortium (O. Askarisichani), GB Mills, JW Gray, M Kellen, T Norman, S Friend, EJ Fertig, Y Guan, M Song, J Stuart, H Koeppl, PT Spellman, G Stolovitzky, J Saez-Rodriguez, and S Mukherjee `` \textbf{Empirical assessment of causal network inference through a community-based effort}'',\textit{Recently accepted and to appear in \textbf{Nature Methods}}, 2015.
 
 \item O. AskariSichani, M. Jalili, `` \textbf{Large-scale Global
-Optimization through Consensus of Opinions Over Networks,}'' \textit{Journal of
-the Complex Adaptive Systems Modeling}, \textit{Springer}, 1(1):11, 2013.
-{\href{http://ce.sharif.edu/~oaskari/publications/large-scale_optimization.pdf}
-{\textbf{\textcolor{blue}{(link)}}}}
+Optimization through Consensus of Opinions Over Networks,}'' \textit{Journal of the Complex Adaptive Systems Modeling}, \textit{Springer}, 1(1):11, 2013.
+{\href{https://github.com/omid55/optimization_opinion_formation}{\textbf{\textcolor{blue}{(git)}}}}
 
 \item O. AskariSichani, M. Jalili, `` \textbf{Influence Maximization of
 Informed Agents in Social Networks,}'' \textit{Journal of Applied Mathematics
 and Computation}, (AMC), Vol. 254, Pages 229-239, 3/1/2015, \textit{Elsevier},
 \href{http://dx.doi.org/10.1016/j.amc.2014.12.139}{http://dx.doi.org/10.1016/j.amc.2014.12.139},%\\
-%http://www.sciencedirect.com/science/article/pii/S0096300314018001
-, 2015.{\href{http://ce.sharif.edu/~oaskari/publications/influence_maximization.pdf}{\textbf{\textcolor{blue}{(link)}}}}
+%http://www.sciencedirect.com/science/article/pii/S0096300314018001,
+2015.
+{\href{https://github.com/omid55/influence_maximization}{\textbf{\textcolor{blue}{(git)}}}}
 
 %\item A. Gharipour, A. Yousefian, O. AskariSichani, ``\textbf{Clustering Based on Fuzzy Rules and Genetic Algorithm for $\alpha-$Reliability Decision of Asset Classification and Portfolio Selection,}'' \textit{Journal of the Asian Economic Review}, Volume 55, No. 1, Pages 47-60, 2013.{\href{http://ce.sharif.edu/~oaskari/publications/clustering_based_on_fuzzy_rules.pdf}{\textbf{\textcolor{blue}{(link)}}}}
 
@@ -85,7 +82,8 @@ and Computation}, (AMC), Vol. 254, Pages 229-239, 3/1/2015, \textit{Elsevier},
 in \textit{3rd International Conference on Agents and Artificial Intelligence},
 \textit{ICAART} 2011, \textit{Rome}, \textit{Italy}, Volume 2, No. 297, session
 10:30-11:00, 2011.
-{\href{http://ce.sharif.edu/~oaskari/publications/an_adaptive_multi_agent_systems.pdf}{\textbf{\textcolor{blue}{(link)}}}}
+{\href{https://github.com/omid55/team_based_rescue_jade_multi_agent_system}{\textbf{\textcolor{blue}{(git)}}}}
+
 \end{enumerate}
 
 
@@ -147,7 +145,7 @@ in \textit{3rd International Conference on Agents and Artificial Intelligence},
 % 				PROJECTS
 % --------------------------------------------------------
 \section{Projects}
-Adaptive Multi Agent System Toolbox \newline
+Adaptive Multi Agent System Toolbox {\href{https://github.com/omid55/team_based_rescue_jade_multi_agent_system}{\textbf{\textcolor{blue}{(git)}}}} \newline
   - {\sl Software Designer and Developer} \hfill 2009 – 2011\\
   \vspace{-4mm}
   \iflong
@@ -165,11 +163,11 @@ Software for Traffic Police Law Enforcement Device \newline
       \begin{itemize}
         \item Implemented a driver and graphical user interface for the device with C\#
         \item This project won a silver medal in IENA, International Exhibition `` Ideas-Inventions-Novelties'', November 5-8, 2009, N\"{U}RNBERG, Germany
-        \item Also won another silver medal in Geneva Inventions, April 21-25, 2010, Geneva, 		Switzerland
+        \item Also won another silver medal in Geneva Inventions, April 21-25, 2010, Geneva, Switzerland
       \end{itemize}
    \fi
    
-Multi Agent System for City Traffic and Routing Simulation \newline
+Multi Agent System for City Traffic and Routing Simulation {\href{https://github.com/omid55/city_routing_model_jade_mutli_agent_system}{\textbf{\textcolor{blue}{(git)}}}} \newline
    - {\sl Software Designer and Developer} \hfill 2010 – 2011\\
    \vspace{-4mm}
    \iflong
@@ -178,7 +176,8 @@ Multi Agent System for City Traffic and Routing Simulation \newline
       \end{itemize}
 	\fi
     
-Real Estate Management Software
+Real Estate Management Software {\href{https://github.com/omid55/real_state_manager}{\textbf{\textcolor{blue}{(git)}}}}
+\newline
 - {\sl Software Designer and Developer} \hfill 2009\\
    \vspace{-4mm}
    \iflong
@@ -188,7 +187,8 @@ Real Estate Management Software
      \end{itemize}
    \fi
    
-Service-Oriented Recommender System Software with Linked-Data Technology
+Service-Oriented Recommender System Software with Linked-Data Technology {\href{https://github.com/omid55/service_oriented_linked_data_based_recommender_system}{\textbf{\textcolor{blue}{(git)}}}}
+\newline
 - {\sl Software Designer and Developer} \hfill 2010\\
    \vspace{-4mm}
    \iflong
@@ -198,7 +198,8 @@ Service-Oriented Recommender System Software with Linked-Data Technology
      \end{itemize}
    \fi
 
-Time Series Forecasting in Business Intelligence Software
+Time Series Forecasting in Business Intelligence Software {\href{https://github.com/omid55/time_series_forecasting_business_intelligence}{\textbf{\textcolor{blue}{(git)}}}}
+\newline
 - {\sl Developer} \hfill 2011\\
    \vspace{-4mm}
    \iflong
